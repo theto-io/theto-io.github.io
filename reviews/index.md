@@ -1,4 +1,4 @@
-#### [Tezos](info/tezos.md)
+#### [Tezos](tezos/index.md)
 
 #### [Ethereum](https://www.ethereum.org/)
 
